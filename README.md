@@ -10,7 +10,7 @@ I have something different in mind, I will continue to develop it.
 
 ## Upcoming Features
 
-    The user will be able to change the background color with the colors she added.
-    Color picker feature
-    Export customized colors with js code
+>The user will be able to change the background color with the >colors she added.
+>Color picker feature
+>Export customized colors with js code
 
